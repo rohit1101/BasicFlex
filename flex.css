@@ -1,0 +1,32 @@
+body {
+    margin: 0 auto;
+    background: #e0e2ff;
+  }
+  
+  
+  a {
+    outline: none;
+    text-decoration: none;
+  }
+  
+  nav {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    background: aqua;
+    margin: 0 auto;
+    border: 3px solid aqua;
+    line-height: 0.9;
+  }
+  
+  header {
+    text-align: center;
+    padding: 50px 25px 50px 25px;
+    background-color: #ff9aa0;
+  }
+  
+  input {
+    width: 200px;
+    height: 20px;
+    margin-top: 10px;
+  }
